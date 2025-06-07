@@ -10,7 +10,7 @@ An engaging, educational web application that brings classical cryptographic alg
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.x-blue)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-11.x-purple)
 
-## You can check the website out here:- **[Crypto-Viz](https://www.youtube.com)**
+## You can check the website out here:- **[Crypto-Viz](https://crypto-viz-sigma.vercel.app/)**
 
 ## ✨ Features
 
