@@ -44,24 +44,30 @@ An engaging, educational web application that brings classical cryptographic alg
 ### Installation
 
 1. **Clone the repository**
-   \`\`\`bash
+
+   `
    git clone https://github.com/yourusername/crypto-viz.git
    cd crypto-viz
-   \`\`\`
+   `
 
 2. **Install dependencies**
-   \`\`\`bash
-   npm install --legacy-peer-deps
+
+   `
+   npm install --legacy-peer-deps `
    # or
+   `
    yarn install
-   \`\`\`
+   `
 
 3. **Start the development server**
-   \`\`\`bash
-   npm run dev
+
+   `
+   npm run dev`
+   
    # or
+   `
    yarn dev
-   \`\`\`
+   `
 
 4. **Open your browser**
    Navigate to \`http://localhost:3000\` to see the application.
