@@ -46,7 +46,7 @@ An engaging, educational web application that brings classical cryptographic alg
 1. **Clone the repository**
 
    `
-   git clone https://github.com/yourusername/crypto-viz.git
+   git clone https://github.com/choksi2212/crypto-viz.git
    cd crypto-viz
    `
 
